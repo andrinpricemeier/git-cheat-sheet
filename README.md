@@ -1,1 +1,1 @@
-# git-cheat-sheet
+# Personal tipps and tricks for git
